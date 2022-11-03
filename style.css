@@ -1,0 +1,31 @@
+.main{
+    width: 70%;
+}
+.dataBox{
+    /* background-color: #d8d8d8; */
+    width: 70%;
+    height: 510px;
+    border: 1px solid rgb(191 192 191);
+    overflow: scroll;
+}
+.todos-parent{
+    height: 60px;
+    background-color: rgb(191 192 191);
+}
+.input-group{
+    height: 58px;
+}
+.main button{
+    width: 68px;
+}
+.dynaminc-btn{
+    align-self: flex-end !important;
+}
+.data h4{
+    margin: 0;
+}
+.dynamic-btn .btn{
+    height: 60px;
+    width: 60px;
+    border-radius: 0px !important;
+}
